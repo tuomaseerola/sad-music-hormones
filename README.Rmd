@@ -1,27 +1,26 @@
 ---
-title: "Hormonal correlates of being-moved by music"
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
-output: 
-  html_document:
-    toc: true
-    toc_depth: 3
-    number_sections: true
-    theme: spacelab
-    highlight: tango
-    df_print: paged
-bibliography: references.bib
-biblio-style: "apalike"
+output: github_document
 ---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "75%"
+)
+```
+
+# Sad music and hormones
+
+## Data and scripts 
+
+The following are all statistical analyses reported in the paper. All data files are available at Github repository: [https://github.com/tuomaseerola/sad-music-hormones](https://github.com/tuomaseerola/sad-music-hormones)
 
 _Created: 9/4/2021_.
 
-# Data and scripts 
-
-The following are all statistical analyses reported in the paper. All data files are available at Github repository: [https://github.com/tuomaseerola/sad-music-hormones](https://github.com/tuomaseerola/sad-music-hormones)
 
 ## Data files
 * `background.csv`: Individual differences variable (`QoL`, `TAS`, `MSI`, etc.) with unique `ID` for each participant.
