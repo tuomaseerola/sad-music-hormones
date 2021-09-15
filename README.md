@@ -3,7 +3,7 @@
 
 # Sad music and hormones
 
-Eerola, T., Vuoskoski, J. K., Kautiainen, H., Peltola, H.-R., Putkinen, V., & Schäfer, K. (2021). Being moved by listening to unfamiliar sad music induces reward-related hormonal changes in empathic listeners. _Annals of the New York Academy of Sciences_, https://doi.org/10.1111/nyas.14660
+>Eerola, T., Vuoskoski, J. K., Kautiainen, H., Peltola, H.-R., Putkinen, V., & Schäfer, K. (2021). Being moved by listening to unfamiliar sad music induces reward-related hormonal changes in empathic listeners. _Annals of the New York Academy of Sciences_, https://doi.org/10.1111/nyas.14660
 
 ## Data and scripts
 
